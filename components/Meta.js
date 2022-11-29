@@ -12,9 +12,8 @@ export default function Meta(props) {
       <link rel="manifest" href="/manifest.json" />
       <meta name="msapplication-TileColor" content="#da532c" />
       <meta name="msapplication-config" content="/assets/browserconfig.xml" />
-      <meta name="theme-color" content="#ffffff" />
-      <meta name="msapplication-TileColor" content="#ffffff" />
-      <meta name="theme-color" content="#ffffff" />
+      <meta name="theme-color" content="#fff7ed" />
+      <meta name="msapplication-TileColor" content="#fff7ed" />
       <meta name="description" content="Read the list of latest cypto news!" />
     </Head>
   );
