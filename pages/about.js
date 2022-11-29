@@ -2,7 +2,7 @@ import Meta from "../components/Meta";
 import Header from "../components/Header";
 import BottomNavigation from "../components/BottomNavigation";
 import Image from "next/image";
-import icon from "../public/assets/Ega.png";
+import icon from "../public/assets/ega.png";
 
 export default function About() {
   return (
